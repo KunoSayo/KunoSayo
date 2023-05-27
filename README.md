@@ -1,3 +1,4 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunoSayo" align="right" alt="Kuno Sayo's Github Stats" />
 ### Hi there 👋
 
 ### [东西](https://github.com/euOnmyoji/euOnmyoji/issues/1)
